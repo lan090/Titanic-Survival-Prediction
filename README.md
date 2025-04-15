@@ -46,4 +46,3 @@ Model Logistic Regression mampu memberikan prediksi dengan akurasi yang cukup ba
 4. Ikuti setiap langkah dari EDA hingga evaluasi model
 
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
