@@ -45,4 +45,3 @@ Model Logistic Regression mampu memberikan prediksi dengan akurasi yang cukup ba
 3. Jalankan Jupyter Notebook dan buka file `titanic-survived-predict.ipynb`
 4. Ikuti setiap langkah dari EDA hingga evaluasi model
 
-```bash
